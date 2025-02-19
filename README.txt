@@ -1,0 +1,1 @@
+isi teks yang random dalam file ini
